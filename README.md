@@ -4,6 +4,8 @@
 - X: [@32ba__](https://x.com/32ba__)
 - LinkedIn: [yukimaruyama](https://www.linkedin.com/in/yukimaruyama/)
 
+More information can be found in [yuki-maruyama/yuki-maruyama](https://github.com/yuki-maruyama/yuki-maruyama)
+
 <!--
 **yuki-maruyama/yuki-maruyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
